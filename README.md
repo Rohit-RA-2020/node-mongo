@@ -1,2 +1,2 @@
 # node-mongo
-Repe to configure nodejs and MongoDB
+Repo to configure nodejs and MongoDB
